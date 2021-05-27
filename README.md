@@ -15,5 +15,5 @@ Links:
 **Thanks again for these beautiful icons.**
 
 # How to use
-Download the **RetroPixelBR** and put the folder in the path:
+Download the **Retro Pixel BR** and put the folder in the path:
 > main/gmenu2x/skins/-->Here<--
