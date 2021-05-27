@@ -1,4 +1,4 @@
-# Retro Pixel BR Version 1.0
+# Retro Pixel BR
 New theme for **New BittBoy**, **Pocket Go** and **PowKiddy Q90-V90**. Based on the **GameShow** and **FontixelAGray** themes.
 
 Special thanks to **Xad/Nightfall**, **Faustbear** and **ZadocPaet** for providing icons in pixel art.
@@ -11,6 +11,6 @@ Links:
 
 **Thanks again for these beautiful icons.**
 
- # How to use
+# How to use
 Download the **RetroPixelBR** and put the folder in the path:
 > main/gmenu2x/skins
