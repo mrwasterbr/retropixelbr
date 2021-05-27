@@ -13,4 +13,4 @@ Links:
 
 # How to use
 Download the **RetroPixelBR** and put the folder in the path:
-> main/gmenu2x/skins
+> main/gmenu2x/skins/-->Here<--
