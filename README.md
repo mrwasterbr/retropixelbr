@@ -1,6 +1,6 @@
 # Retro Pixel BR
 
-![Image of Yaktocat](https://github.com/mrwasterbr/retropixelbr/blob/main/display.png)
+![Image of Yaktocat](https://github.com/mrwasterbr/retropixelbr/blob/main/display_theme.png)
 
 New theme for **New BittBoy**, **Pocket Go** and **PowKiddy Q90-V90**. Based on the **GameShow** and **FontixelAGray** themes.
 
