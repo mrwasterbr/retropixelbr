@@ -1,4 +1,4 @@
-# Retro Pixel BR
+# Theme Retro Pixel BR
 
 ![Image of Yaktocat](https://github.com/mrwasterbr/retropixelbr/blob/main/display_theme.png)
 
