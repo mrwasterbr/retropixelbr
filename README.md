@@ -15,5 +15,5 @@ Links:
 **Thanks again for these beautiful icons.**
 
 # How to use
-Download and extract the retropixelbr-main.zip in the pach:
-> main/gmenu2x/skins/-->Here<--
+Download and extract the **retropixelbr-main.zip** in the pach:
+> main/gmenu2x/skins/**-->Here<--**
