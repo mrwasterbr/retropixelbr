@@ -2,7 +2,7 @@
 
 ![Image of Yaktocat](https://github.com/mrwasterbr/retropixelbr/blob/main/display_theme.png)
 
-New theme for **New BittBoy**, **Pocket Go** and **PowKiddy Q90-V90**. Based on the **GameShow** and **FontixelAGray** themes.
+New theme for **New BittBoy**, **Pocket Go**, **PowKiddy Q90-V90** and **Anbernic RG350**. Based on the **GameShow** and **FontixelAGray** themes.
 
 Compatible with all devices that have a resolution of **320x240**.
 
