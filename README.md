@@ -17,5 +17,5 @@ Links:
 **Thanks again for these beautiful icons.**
 
 # How to use
-Download and extract the **retropixelbr-main.zip** in the pach:
+[Download](https://github.com/mrwasterbr/retropixelbr/releases/tag/1.0) and extract the **RetroPixelBR.zip** in the pach:
 > main/gmenu2x/skins/**-->Here<--**
