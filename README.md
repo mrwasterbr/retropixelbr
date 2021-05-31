@@ -6,7 +6,7 @@ New theme for **New BittBoy**, **Pocket Go**, **PowKiddy Q90-V90** and **Anberni
 
 Compatible with all devices (Open Dingoo System) that have a resolution of **320x240**.
 
-Tested on [MiyooCFW](https://github.com/TriForceX/MiyooCFW) and [BOB image](https://telegra.ph/Best-of-the-Best---Solo-los-mejores-juegos-09-25)
+Tested on [MiyooCFW](https://github.com/TriForceX/MiyooCFW) and [BOB image](https://telegra.ph/BOB-Bittboy--PowKiddy-01-01)
 
 **Download:** [Retro Pixel BR 1.0](https://github.com/mrwasterbr/retropixelbr/releases/tag/1.0)
 
