@@ -4,7 +4,7 @@
 
 New theme for **New BittBoy**, **Pocket Go**, **PowKiddy Q90-V90** and **Anbernic RG350**. Based on the **GameShow** and **FontixelAGray** themes.
 
-Compatible with all devices that have a resolution of **320x240**.
+Compatible with all devices (Open Dingoo System) that have a resolution of **320x240**.
 
 **Download:** [Retro Pixel BR 1.0](https://github.com/mrwasterbr/retropixelbr/releases/tag/1.0)
 
