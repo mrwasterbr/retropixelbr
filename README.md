@@ -6,7 +6,7 @@ New theme for **New BittBoy**, **Pocket Go**, **PowKiddy Q90-V90** and **Anberni
 
 Compatible with all devices that have a resolution of **320x240**.
 
-**Download:** [RetroPixelBR.zip](https://github.com/mrwasterbr/retropixelbr/releases/tag/1.0)
+**Download:** [Retro Pixel BR 1.0](https://github.com/mrwasterbr/retropixelbr/releases/tag/1.0)
 
 Special thanks to **Xad/Nightfall**, **Faustbear** and **ZadocPaet** for providing icons in pixel art.
 
