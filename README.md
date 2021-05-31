@@ -14,7 +14,7 @@ Links:
 
 * [Xad/Nightfall](https://www.nightfallcrew.com/21/11/2009/96-icons-of-vintage-consoles-computers/)
 * [Faustbear](https://www.reddit.com/r/miniSNESmods/comments/995ylx/additional_pixel_art_icon_pack_22/)
-* [ZadocPaet](https://www.reddit.com/r/SEGA/comments/2tialr/sega_console_family_in_pixel_art/)
+* [ZadocPaet](https://www.reddit.com/r/SEGA/comments/2tialr/sega_console_family_in_pixel_art/), used as a reference and inspiration.
 
 **Thanks again** for these **beautiful icons**.
 
