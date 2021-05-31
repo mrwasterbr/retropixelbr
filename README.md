@@ -18,10 +18,6 @@ Links:
 
 **Thanks again** for these **beautiful icons**.
 
-# How to use
-[Download](https://github.com/mrwasterbr/retropixelbr/releases/tag/1.0) and extract the **RetroPixelBR.zip** in the pach:
-> main/gmenu2x/skins/**-->Here<--**
-
 # Fonts used
 
 **Thanks** to the creators of the **great fonts**.
@@ -29,3 +25,7 @@ Links:
 * [Karmatic Arcade](https://www.1001fonts.com/karmatic-arcade-font.html), used in titles.
 * [Retro Computer](https://www.dafont.com/retro-computer.font), used in subtitles.
 * [Play](https://fonts.google.com/specimen/Play), used in the system.
+
+# How to use
+[Download](https://github.com/mrwasterbr/retropixelbr/releases/tag/1.0) and extract the **RetroPixelBR.zip** in the pach:
+> main/gmenu2x/skins/**-->Here<--**
