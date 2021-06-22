@@ -19,7 +19,7 @@ Links:
 * [ZadocPaet](https://www.reddit.com/r/SEGA/comments/2tialr/sega_console_family_in_pixel_art/), used as a reference and inspiration.
 * [Lucas312](https://opengameart.org/content/pixel-chess-pieces), used in game Spartak Chess.
 
-**Thanks again** for these **beautiful icons**.
+**Thanks again** for these **beautiful icons** and pixel art.
 
 # Fonts used
 
