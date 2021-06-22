@@ -17,6 +17,7 @@ Links:
 * [Xad/Nightfall](https://www.nightfallcrew.com/21/11/2009/96-icons-of-vintage-consoles-computers/), used in most of the theme.
 * [Faustbear](https://www.reddit.com/r/miniSNESmods/comments/995ylx/additional_pixel_art_icon_pack_22/), adapter and used on some screens.
 * [ZadocPaet](https://www.reddit.com/r/SEGA/comments/2tialr/sega_console_family_in_pixel_art/), used as a reference and inspiration.
+* [Lucas312](https://opengameart.org/content/pixel-chess-pieces), used in game Spartak Chess.
 
 **Thanks again** for these **beautiful icons**.
 
