@@ -8,7 +8,7 @@ Compatible with all devices (Open Dingoo System) that have a resolution of **320
 
 Tested on [MiyooCFW](https://github.com/TriForceX/MiyooCFW) and [BOB image](https://telegra.ph/BOB-Bittboy--PowKiddy-01-01)
 
-**Download:** [Retro Pixel BR v1.2](https://github.com/mrwasterbr/retropixelbr/releases/tag/v1.2)
+**Download:** [Retro Pixel BR v1.3](https://github.com/mrwasterbr/retropixelbr/releases/tag/v1.3)
 
 Special thanks to **Xad/Nightfall**, **Faustbear** and **ZadocPaet** for providing icons in pixel art.
 
@@ -30,5 +30,5 @@ Links:
 * [Play](https://fonts.google.com/specimen/Play), used in the system.
 
 # How to use
-[Download](https://github.com/mrwasterbr/retropixelbr/releases/tag/v1.2) and extract the **RetroPixelBR.zip** in the pach:
+[Download](https://github.com/mrwasterbr/retropixelbr/releases/tag/v1.3) and extract the **RetroPixelBR.zip** in the pach:
 > main/gmenu2x/skins/**-->Here<--**
