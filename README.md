@@ -30,5 +30,5 @@ Links:
 * [Play](https://fonts.google.com/specimen/Play), used in the system.
 
 # How to use
-[Download](https://github.com/mrwasterbr/retropixelbr/releases/tag/v1.5) and extract the **RetroPixelBR.zip** in the pach:
+[Download](https://github.com/mrwasterbr/retropixelbr/releases/tag/v1.5) and extract the **RetroPixelBR.zip** in the path:
 > main/gmenu2x/skins/**-->Here<--**
